@@ -8,3 +8,7 @@ CSS :
 Form website
 Personal website
 company website
+
+JS:
+Calculator website
+Game website
